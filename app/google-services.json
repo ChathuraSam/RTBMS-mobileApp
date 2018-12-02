@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "840001025789",
+    "firebase_url": "https://rtbms-database.firebaseio.com",
+    "project_id": "rtbms-database",
+    "storage_bucket": "rtbms-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840001025789:android:ff03616d79486f0b",
+        "android_client_info": {
+          "package_name": "com.example.chathura.rtbms_mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840001025789-o2iav5jgh8cc2f95fcvnh3b2t81f5cl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMFuo1jUibh6F491zJwNikdqjsnf07aQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
